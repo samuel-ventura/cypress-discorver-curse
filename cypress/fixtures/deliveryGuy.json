@@ -1,0 +1,53 @@
+{
+    "signup_correct_cpf": {
+        "name": "Samuel Ventura",
+        "cpf": "98131544036",
+        "email": "samuel@vercel.app",
+        "whatsapp": "88999999999",
+        "address": {
+            "zip": "63041145",
+            "street": "Avenida Padre Cícero",
+            "number": "119",
+            "details": "B",
+            "district": "Triângulo",
+            "city_state": "Juazeiro do Norte/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "/assets/cnh-digital.jpg"
+    },
+    "signup_incorrect_cpf": {
+        "name": "Samuel Ventura",
+        "cpf": "283asdasd",
+        "email": "samuel@vercel.app",
+        "whatsapp": "88999999999",
+        "address": {
+            "zip": "63041145",
+            "street": "Avenida Padre Cícero",
+            "number": "119",
+            "details": "B",
+            "district": "Triângulo",
+            "city_state": "Juazeiro do Norte/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "/assets/cnh-digital.jpg"
+    },
+    "signup_incorrect_email": {
+        "name": "Samuel Ventura",
+        "cpf": "98131544036",
+        "email": "samuel.com.br",
+        "whatsapp": "88999999999",
+        "address": {
+            "zip": "63041145",
+            "street": "Avenida Padre Cícero",
+            "number": "119",
+            "details": "B",
+            "district": "Triângulo",
+            "city_state": "Juazeiro do Norte/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "/assets/cnh-digital.jpg"
+    },
+    "modal_message": {
+        "message_success": "Recebemos os seus dados. Fique de olho na sua caixa de email, pois e em breve retornamos o contato."
+    }
+}
